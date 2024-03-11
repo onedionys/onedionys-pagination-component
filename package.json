@@ -1,6 +1,6 @@
 {
   "name": "onedionys-pagination-component",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Pagination Component) - A component to divide content into multiple pages, making it easier for users to navigate.",
   "main": "src/pagination.js",
   "directories": {
